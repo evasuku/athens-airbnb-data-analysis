@@ -33,4 +33,4 @@ review scores rating
 - Data cleaning & preprocessing
 
 #### Recommendations:
-This analysis only considers the listings dataset so there is an opportunity to explore further about Athens Airbnb trends through the use of a regression model and be updated in the future.
+This analysis only considers the listings dataset so there is an opportunity to explore further about Athens Airbnb trends through the use of a regression model and will be updated in the future.
